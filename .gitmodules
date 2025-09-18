@@ -1,3 +1,6 @@
 [submodule "Choral-Riff-Frontend"]
 	path = Choral-Riff-Frontend
 	url = https://github.com/Kamal-And-The-Gang/Choral-Riff-Frontend.git
+[submodule "Choral-Riff-Backend"]
+	path = Choral-Riff-Backend
+	url = https://github.com/Kamal-And-The-Gang/Choral-Riff-Backend.git
