@@ -105,6 +105,21 @@ Choral-Riff
 └── Choral-Riff-Frontend
     └── Interface React
 ```
+# Modèle de données
+
+La conception de la base de données a été réalisée à partir d'un modèle conceptuel de données (MCD).
+
+Le modèle permet de représenter les principales entités métier de l'application :
+
+- Utilisateurs et gestion des profils
+- Ensembles musicaux et adhésion des membres
+- Morceaux et ressources associées
+- Documents multimédias
+- Notifications métier
+- Invitations
+- Instruments associés aux documents
+
+![Modèle conceptuel de données](document/MCD_161225.png)
 
 # Architecture de déploiement
 
