@@ -18,7 +18,7 @@ Le projet répond à un besoin concret : faciliter l'organisation et le partage 
 
 ## Tableau de bord
 
-![Tableau de bord](document/screenshots/Dashboard.png)
+![Tableau de bord](document/Dashboard.png)
 
 ## Gestion des ensembles
 
