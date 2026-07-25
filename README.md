@@ -6,7 +6,7 @@ Choral-Riff est une application métier permettant aux chorales, groupes vocaux 
 
 Le projet répond à un besoin concret : faciliter l'organisation et le partage des documents musicaux d'une chorale d'environ 60 membres répartis en plusieurs pupitres, tout en garantissant une gestion sécurisée des accès selon les rôles des utilisateurs.
 
----
+
 ---
 
 # Aperçu de l'application
@@ -139,7 +139,7 @@ Cette architecture permet :
 - Une évolution facilitée vers un déploiement cloud
 - Une meilleure isolation des composants grâce à la conteneurisation Docker
 
-![Architecture de déploiement](document/stack-spring-react-postgres-docker_infrastructure-docker.svg)
+![Architecture de déploiement](document/Deploiement.png)
 # Réalisations techniques
 
 Dans le cadre de ce projet :
