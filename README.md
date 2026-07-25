@@ -117,20 +117,6 @@ L'architecture repose sur :
 - Une API REST Spring Boot
 - Une base de données PostgreSQL
 
-Flux de communication :
-Client
-|
-| HTTPS (443)
-|
-Reverse Proxy Nginx
-|
-├── Frontend React (8080)
-|
-└── API REST Spring Boot (8000)
-|
-|
-PostgreSQL (5432)
-
 
 Cette architecture permet :
 
@@ -139,7 +125,7 @@ Cette architecture permet :
 - Une évolution facilitée vers un déploiement cloud
 - Une meilleure isolation des composants grâce à la conteneurisation Docker
 
-![Architecture de déploiement](document/Deploiement.png)
+![Architecture de déploiement](document/Deploiement.png.png)
 # Réalisations techniques
 
 Dans le cadre de ce projet :
