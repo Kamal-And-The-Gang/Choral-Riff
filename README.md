@@ -13,7 +13,8 @@ Le projet répond à un besoin concret : faciliter l'organisation et le partage 
 
 ## Connexion
 
-document/FireShot Capture 047 - choral-riff - [localhost].png
+![Connexion](document/login.png)
+
 
 ## Tableau de bord
 
