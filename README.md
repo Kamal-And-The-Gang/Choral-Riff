@@ -13,7 +13,7 @@ Le projet répond à un besoin concret : faciliter l'organisation et le partage 
 
 ## Connexion
 
-![Connexion](document/screenshots/login.png)
+![Connexion](document/login.png)
 
 ## Tableau de bord
 
