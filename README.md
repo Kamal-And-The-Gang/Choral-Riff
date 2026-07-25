@@ -17,19 +17,19 @@ Le projet répond à un besoin concret : faciliter l'organisation et le partage 
 
 ## Tableau de bord
 
-![Tableau de bord](document/screenshots/dashboard.png)
+![Tableau de bord](document/screenshots/Dashboard.png)
 
 ## Gestion des ensembles
 
-![Gestion des ensembles](document/screenshots/ensembles.png)
+![Gestion des ensembles](document/screenshots/EnsembleList.png)
 
 ## Gestion des morceaux
 
-![Gestion des morceaux](document/screenshots/morceaux.png)
+![Gestion des morceaux](document/screenshots/AjoutMorceau.png)
 
 ## Notifications
 
-![Notifications](document/screenshots/notifications.png)
+![Notifications](document/screenshots/Notifications.png)
 
 # Objectifs du projet
 
