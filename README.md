@@ -106,14 +106,40 @@ Choral-Riff
     └── Interface React
 ```
 
----
+# Architecture de déploiement
 
-# Stack technique
+L'application Choral-Riff peut être déployée sur une infrastructure serveur composée de plusieurs services conteneurisés.
+
+L'architecture repose sur :
+
+- Un reverse proxy Nginx permettant de gérer les accès HTTP/HTTPS
+- Une application frontend React servie via un serveur Node/Nginx
+- Une API REST Spring Boot
+- Une base de données PostgreSQL
+
+Flux de communication :
+Client
+|
+| HTTPS (443)
+|
+Reverse Proxy Nginx
+|
+├── Frontend React (8080)
+|
+└── API REST Spring Boot (8000)
+|
+|
+PostgreSQL (5432)
 
 
+Cette architecture permet :
 
----
+- La séparation des responsabilités entre frontend, backend et base de données
+- La sécurisation des accès via un point d'entrée unique
+- Une évolution facilitée vers un déploiement cloud
+- Une meilleure isolation des composants grâce à la conteneurisation Docker
 
+![Architecture de déploiement](document/stack-spring-react-postgres-docker_infrastructure-docker.svg)
 # Réalisations techniques
 
 Dans le cadre de ce projet :
