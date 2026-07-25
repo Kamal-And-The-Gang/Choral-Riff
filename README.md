@@ -22,7 +22,7 @@ Le projet répond à un besoin concret : faciliter l'organisation et le partage 
 
 ## Gestion des ensembles
 
-![Gestion des ensembles](document/screenshots/EnsembleList.png)
+![Gestion des ensembles](document/EnsembleList.png)
 
 ## Gestion des morceaux
 
