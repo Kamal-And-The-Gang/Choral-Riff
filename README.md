@@ -7,6 +7,29 @@ Choral-Riff est une application métier permettant aux chorales, groupes vocaux 
 Le projet répond à un besoin concret : faciliter l'organisation et le partage des documents musicaux d'une chorale d'environ 60 membres répartis en plusieurs pupitres, tout en garantissant une gestion sécurisée des accès selon les rôles des utilisateurs.
 
 ---
+---
+
+# Aperçu de l'application
+
+## Connexion
+
+![Connexion](document/screenshots/login.png)
+
+## Tableau de bord
+
+![Tableau de bord](document/screenshots/dashboard.png)
+
+## Gestion des ensembles
+
+![Gestion des ensembles](document/screenshots/ensembles.png)
+
+## Gestion des morceaux
+
+![Gestion des morceaux](document/screenshots/morceaux.png)
+
+## Notifications
+
+![Notifications](document/screenshots/notifications.png)
 
 # Objectifs du projet
 
