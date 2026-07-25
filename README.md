@@ -133,6 +133,7 @@ Dans le cadre de ce projet :
 
 - Git
 - GitHub
+- GitHub Actions
 - Docker
 - Maven
 
