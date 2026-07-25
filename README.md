@@ -32,7 +32,7 @@ Le projet répond à un besoin concret : faciliter l'organisation et le partage 
 
 ## Notifications
 
-![Notification](document/screenshots/Notification.png)
+![Notifications](document/Notification.png)
 
 # Objectifs du projet
 
