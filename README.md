@@ -27,12 +27,12 @@ Le projet répond à un besoin concret : faciliter l'organisation et le partage 
 ## Gestion des morceaux
 
 ![Gestion des morceaux](document/AjoutMorceau.png.png)
-![Gestion des morceaux](document/Songs.png)
+![Gestion des morceaux](document/Songs.png.png)
 ![Page morceau](document/PageMorceau.png.png)
 
 ## Notifications
 
-![Notifications](document/Notification.png)
+![Notifications](document/Notification.png.png)
 
 # Objectifs du projet
 
