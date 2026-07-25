@@ -109,6 +109,7 @@ Dans le cadre de ce projet :
 - L'écriture de tests unitaires et tests d'intégration
 - La conteneurisation de l'application avec Docker
 - Le versionnement du projet avec Git
+- La mise en place d'un workflow CI avec GitHub Actions pour automatiser les builds et les tests
 
 ## Backend
 
@@ -136,6 +137,15 @@ Dans le cadre de ce projet :
 - Maven
 
 ---
+## Intégration continue
+
+Le projet utilise GitHub Actions afin d'automatiser :
+
+- La compilation du backend Spring Boot
+- L'exécution des tests automatisés
+- Le démarrage d'une base PostgreSQL dédiée aux tests
+- La vérification de la connexion à la base de données
+- La génération des rapports de tests en cas d'échec
 
 # Sécurité
 
