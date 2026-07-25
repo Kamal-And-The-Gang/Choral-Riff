@@ -13,12 +13,12 @@ Le projet répond à un besoin concret : faciliter l'organisation et le partage 
 
 ## Connexion
 
-![Connexion](document/LoginPage.png)
+![Connexion](document/LoginPage.png.png)
 
 
 ## Tableau de bord
 
-![Tableau de bord](document/Dashboard.png)
+![Tableau de bord](document/Dashboard.png.png)
 
 ## Gestion des ensembles
 
