@@ -13,7 +13,7 @@ Le projet répond à un besoin concret : faciliter l'organisation et le partage 
 
 ## Connexion
 
-![Connexion](document/FireShot%20Capture%20047%20-%20choral-riff%20-%20%5Blocalhost%5D.png)
+![Connexion](document/LoginPage.png)
 
 
 ## Tableau de bord
@@ -26,11 +26,13 @@ Le projet répond à un besoin concret : faciliter l'organisation et le partage 
 
 ## Gestion des morceaux
 
-![Gestion des morceaux](document/screenshots/AjoutMorceau.png)
+![Gestion des morceaux](document/AjoutMorceau.png)
+![Gestion des morceaux](document/Songs.png)
+![Page morceau](document/PageMorceau.png)
 
 ## Notifications
 
-![Notifications](document/screenshots/Notifications.png)
+![Notification](document/screenshots/Notification.png)
 
 # Objectifs du projet
 
