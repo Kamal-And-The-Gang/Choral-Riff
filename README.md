@@ -119,7 +119,7 @@ Le modèle permet de représenter les principales entités métier de l'applicat
 - Invitations
 - Instruments associés aux documents
 
-![Modèle conceptuel de données](document/MCD_161225.png)
+![Modèle conceptuel de données](document/MCD_161225.PNG)
 
 # Architecture de déploiement
 
