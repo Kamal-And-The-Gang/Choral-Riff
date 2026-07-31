@@ -12,7 +12,6 @@ Le projet répond à un besoin concret : faciliter l'organisation et le partage 
 
 # Sommaire
 
-- [Présentation](#présentation)
 - [Aperçu de l'application](#aperçu-de-lapplication)
 - [Objectifs du projet](#objectifs-du-projet)
 - [Fonctionnalités](#fonctionnalités)
