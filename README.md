@@ -43,7 +43,7 @@ Le projet répond à un besoin concret : faciliter l'organisation et le partage 
 
 ## Gestion des morceaux
 
-![Gestion des morceaux](document/AjoutMorceau.png.png)
+
 ![Gestion des morceaux](document/Songs.png.png)
 ![Page morceau](document/PageMorceau.png.png)
 
