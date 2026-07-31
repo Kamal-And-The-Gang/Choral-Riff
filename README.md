@@ -163,7 +163,6 @@ Cette architecture permet :
 - Une meilleure isolation des composants grâce à la conteneurisation Docker
 - La sécurisation des échanges via HTTPS
 
-![Architecture de déploiement](document/Deploiement.png.png)
 <img src="document/Deploiement.png.png" alt="Architecture de déploiement" width="700">
 ## Réalisations techniques
 
