@@ -164,6 +164,7 @@ Cette architecture permet :
 - La sécurisation des échanges via HTTPS
 
 ![Architecture de déploiement](document/Deploiement.png.png)
+<img src="document/Deploiement.png.png" alt="Architecture de déploiement" width="700">
 ## Réalisations techniques
 
 Dans le cadre de ce projet :
