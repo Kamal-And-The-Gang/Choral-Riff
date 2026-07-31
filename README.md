@@ -30,16 +30,16 @@ Le projet répond à un besoin concret : faciliter l'organisation et le partage 
 
 ## Connexion
 
-![Connexion](document/LoginPage.png.png)
+<img src="document/LoginPage.png.png" alt="Page de connexion" width="700">
 
 
 ## Tableau de bord
 
-![Tableau de bord](document/Dashboard.png.png)
+<img src="document/Dashboard.png.png" alt="Tableau de bord" width="700">
 
 ## Gestion des ensembles
 
-![Gestion des ensembles](document/EnsembleList.png)
+<img src="document/EnsembleList.png" alt="Gestion des ensembles" width="700">
 
 ## Gestion des morceaux
 
