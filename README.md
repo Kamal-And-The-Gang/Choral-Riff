@@ -44,12 +44,12 @@ Le projet répond à un besoin concret : faciliter l'organisation et le partage 
 ## Gestion des morceaux
 
 
-![Gestion des morceaux](document/Songs.png.png)
-![Page morceau](document/PageMorceau.png.png)
+<img src="document/Songs.png.png" alt="Gestion des morceaux" width="700">
+<img src="document/PageMorceau.png.png" alt="Page morceau" width="700">
 
 ## Notifications
 
-![Notifications](document/Notification.png.png)
+<img src="document/Notification.png.png" alt="Notifications" width="700">
 
 ## Objectifs du projet
 
@@ -126,7 +126,7 @@ Choral-Riff
 ### Architecture applicative
 
 L'application suit une architecture en couches permettant de séparer les responsabilités entre l'interface utilisateur, la logique métier et l'accès aux données.
-![Architecture applicative](document/image.png)
+<img src="document/image.png" alt="Architecture applicative" width="650">
 
 ## Modèle de données
 
@@ -143,8 +143,6 @@ Le modèle permet de représenter les principales entités métier de l'applicat
 - Instruments associés aux documents
 
 <img src="document/MCD_161225.PNG" alt="Modèle conceptuel de données" width="800">
-
-## Architecture de déploiement
 
 ## Architecture de déploiement
 
@@ -298,7 +296,7 @@ Choral-Riff
 
 ## Contexte du projet
 
-Projet réalisé dans le cadre du titre professionnel :
+Projet de stage association de chant réalisé dans le cadre du titre professionnel :
 
 **Concepteur Développeur d'Applications (CDA)**
 
