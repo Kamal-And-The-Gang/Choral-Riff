@@ -127,8 +127,6 @@ L'application Choral-Riff peut être déployée sur une infrastructure serveur c
 
 L'architecture repose sur :
 
-- Un reverse proxy Nginx permettant de gérer les accès HTTP/HTTPS
-- Une application frontend React servie via un serveur Node/Nginx
 - Une API REST Spring Boot
 - Une base de données PostgreSQL
 
@@ -136,8 +134,6 @@ L'architecture repose sur :
 Cette architecture permet :
 
 - La séparation des responsabilités entre frontend, backend et base de données
-- La sécurisation des accès via un point d'entrée unique
-- Une évolution facilitée vers un déploiement cloud
 - Une meilleure isolation des composants grâce à la conteneurisation Docker
 
 ![Architecture de déploiement](document/Deploiement.png.png)
