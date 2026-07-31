@@ -1,6 +1,7 @@
 # Choral-Riff 🎵
 
-## Application web full stack de gestion de ressources musicales pour chorales et ensembles
+## Présentation
+**Application web full stack de gestion de ressources musicales pour chorales et ensembles**
 
 Choral-Riff est une application métier permettant aux chorales, groupes vocaux et ensembles musicaux de centraliser leurs partitions, fichiers audio et ressources associées.
 
@@ -9,7 +10,23 @@ Le projet répond à un besoin concret : faciliter l'organisation et le partage 
 
 ---
 
-# Aperçu de l'application
+# Sommaire
+
+- [Présentation](#présentation)
+- [Aperçu de l'application](#aperçu-de-lapplication)
+- [Objectifs du projet](#objectifs-du-projet)
+- [Fonctionnalités](#fonctionnalités)
+- [Architecture du projet](#architecture-du-projet)
+- [Modèle de données](#modèle-de-données)
+- [Architecture de déploiement](#architecture-de-déploiement)
+- [Réalisations techniques](#réalisations-techniques)
+- [Sécurité](#sécurité)
+- [Installation](#installation)
+- [Organisation du dépôt](#organisation-du-dépôt)
+- [Contexte du projet](#contexte-du-projet)
+- [Évolutions possibles](#évolutions-possibles)
+
+## Aperçu de l'application
 
 ## Connexion
 
@@ -34,7 +51,7 @@ Le projet répond à un besoin concret : faciliter l'organisation et le partage 
 
 ![Notifications](document/Notification.png.png)
 
-# Objectifs du projet
+## Objectifs du projet
 
 - Centraliser les partitions musicales et ressources associées
 - Faciliter le partage entre les membres d'un ensemble
@@ -44,7 +61,7 @@ Le projet répond à un besoin concret : faciliter l'organisation et le partage 
 
 ---
 
-# Fonctionnalités
+## Fonctionnalités
 
 ## Gestion des utilisateurs
 
@@ -92,7 +109,7 @@ Le projet répond à un besoin concret : faciliter l'organisation et le partage 
 - Consultation des notifications par les utilisateurs
 - Stockage et gestion des notifications en base de données
 
-# Architecture du projet
+## Architecture du projet
 
 L'application est composée de deux parties :
 
@@ -105,7 +122,7 @@ Choral-Riff
 └── Choral-Riff-Frontend
     └── Interface React
 ```
-# Modèle de données
+## Modèle de données
 
 La conception de la base de données a été réalisée à partir d'un modèle conceptuel de données (MCD).
 
@@ -121,7 +138,7 @@ Le modèle permet de représenter les principales entités métier de l'applicat
 
 ![Modèle conceptuel de données](document/MCD_161225.PNG)
 
-# Architecture de déploiement
+## Architecture de déploiement
 
 L'application Choral-Riff peut être déployée sur une infrastructure serveur composée de plusieurs services conteneurisés.
 
@@ -137,7 +154,7 @@ Cette architecture permet :
 - Une meilleure isolation des composants grâce à la conteneurisation Docker
 
 ![Architecture de déploiement](document/Deploiement.png.png)
-# Réalisations techniques
+## Réalisations techniques
 
 Dans le cadre de ce projet :
 
@@ -145,12 +162,8 @@ Dans le cadre de ce projet :
 - Le développement d'une API REST avec Spring Boot
 - La création de 25 endpoints REST pour gérer les fonctionnalités métier
 - La mise en place d'une authentification sécurisée
-- La gestion des rôles et permissions avec un système RBAC
-- La gestion des niveaux d'accès selon les profils utilisateurs :
-  - UTILISATEUR
-  - MEMBRE
-  - OWNER
-  - ADMIN
+- La gestion des rôles et permissions avec un système RBAC (Role-Based Access Control)
+- La gestion des autorisations selon les rôles : ADMIN, OWNER et MEMBER
 - La modélisation et l'exploitation d'une base PostgreSQL
 - Le développement d'une interface React connectée au backend
 - La gestion des fichiers multimédias (partitions, audio, documents)
@@ -197,7 +210,7 @@ Le projet utilise GitHub Actions afin d'automatiser :
 - La vérification de la connexion à la base de données
 - La génération des rapports de tests en cas d'échec
 
-# Sécurité
+## Sécurité
 
 L'application intègre plusieurs mécanismes de sécurité :
 
@@ -209,7 +222,7 @@ L'application intègre plusieurs mécanismes de sécurité :
 
 ---
 
-# Installation
+## Installation
 
 ## Prérequis
 
@@ -258,7 +271,7 @@ Puis lancer :
 
 ---
 
-# Organisation du dépôt
+## Organisation du dépôt
 
 ```text
 Choral-Riff
@@ -273,7 +286,7 @@ Choral-Riff
 
 ---
 
-# Contexte du projet
+## Contexte du projet
 
 Projet réalisé dans le cadre du titre professionnel :
 
@@ -291,7 +304,7 @@ Ce projet a permis de mettre en pratique :
 
 ---
 
-# Évolutions possibles
+## Évolutions possibles
 
 Quelques pistes d'amélioration :
 
