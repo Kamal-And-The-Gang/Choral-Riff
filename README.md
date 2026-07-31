@@ -122,6 +122,12 @@ Choral-Riff
 └── Choral-Riff-Frontend
     └── Interface React
 ```
+
+### Architecture applicative
+
+L'application suit une architecture en couches permettant de séparer les responsabilités entre l'interface utilisateur, la logique métier et l'accès aux données.
+![Architecture applicative](document/image.png)
+
 ## Modèle de données
 
 La conception de la base de données a été réalisée à partir d'un modèle conceptuel de données (MCD).
