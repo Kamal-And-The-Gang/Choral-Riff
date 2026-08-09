@@ -17,6 +17,15 @@ Le frontend communique avec l'API REST Spring Boot pour accéder aux fonctionnal
 
 ---
 
+Ma contribution
+
+J'ai contribué au développement du frontend React et du backend Java / Spring Boot de l'application.
+
+- Développement de fonctionnalités avec React et intégration des API REST.
+- Développement et évolution de fonctionnalités métier côté backend.
+- Participation à la gestion des rôles et permissions côté backend.
+- Participation à la conception fonctionnelle et technique du projet.
+
 # Sommaire
 
 - [Aperçu de l'application](#aperçu-de-lapplication)
