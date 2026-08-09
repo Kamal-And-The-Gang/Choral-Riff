@@ -7,9 +7,14 @@ Choral-Riff est une application métier permettant aux chorales, groupes vocaux 
 
 Le projet répond à un besoin concret : faciliter l'organisation et le partage des documents musicaux d'une chorale d'environ 60 membres répartis en plusieurs pupitres, tout en garantissant une gestion sécurisée des accès selon les rôles des utilisateurs.
 
-Frontend React :
-Développement d'une interface utilisateur en React permettant aux membres d'une chorale de gérer leurs ensembles, morceaux, partitions et ressources multimédias.
-Le frontend communique avec une API REST Spring Boot et prend en charge l'authentification, la gestion des rôles et permissions, les notifications ainsi que la consultation et la gestion des ressources.
+Frontend React
+
+Le frontend de Choral-Riff a été développé avec React, JavaScript/TypeScript et Vite.
+
+Il permet aux utilisateurs de gérer leurs ensembles, leurs morceaux, leurs partitions et leurs ressources multimédias depuis une interface web.
+
+Le frontend communique avec l'API REST Spring Boot pour accéder aux fonctionnalités de l'application.
+
 ---
 
 # Sommaire
