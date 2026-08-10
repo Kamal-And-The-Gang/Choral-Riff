@@ -21,11 +21,13 @@ Ma contribution
 
 J'ai contribué au développement du frontend React et du backend Java / Spring Boot de l'application.
 
+- Développement de fonctionnalités métier liées aux invitations et aux demandes de rattachement.
 - Développement de fonctionnalités avec React et intégration des API REST.
-- Développement et évolution de fonctionnalités métier côté backend.
-- Participation à la gestion des rôles et permissions côté backend.
+- Mise en place de la gestion des rôles et permissions côté backend.
+- Développement et évolution de fonctionnalités liées aux notifications.
 - Participation à la conception fonctionnelle et technique du projet.
 
+  
 # Sommaire
 
 - [Aperçu de l'application](#aperçu-de-lapplication)
